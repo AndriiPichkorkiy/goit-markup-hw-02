@@ -27,7 +27,6 @@
     font-size: 16px;
     color: var(--body-text);
     background-color: var(--white);
-    letter-spacing: 0.02em;
   }
 
   ul,
@@ -91,6 +90,7 @@
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
     color: var(--main-dark);
   }
   
@@ -112,6 +112,7 @@
   .header-address-link {
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
   }
   
   .header-address-link:hover,
@@ -129,6 +130,7 @@
     font-weight: 700;
     font-size: 56px;
     line-height: 1.08;
+    letter-spacing: 0.02em;
     color: var(--white);
     line-height: 1.07;
     text-align: center;
@@ -167,11 +169,13 @@
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
     color: var(--main-dark);
   }
   
   .subsection {
     line-height: 1.5;
+    letter-spacing: 0.02em;
   }
   .our-services {
   }
